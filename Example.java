@@ -2,7 +2,7 @@ import java.io.FileInputStream;
 import javax.swing.JOptionPane;
 class Example
 {
-	//�޸�
+	//测试修改
 	public static void main(String args[])
 	{
       byte buffer[]=new byte[1024];
